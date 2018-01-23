@@ -6,5 +6,5 @@ const rootReducer = combineReducers({
   posts: PostsReducer,
   form: formReducer
 });
-
+//kljlk
 export default rootReducer;
